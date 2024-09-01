@@ -1,3 +1,5 @@
+//MELLEKAG KOMMENT
+
 /*
 - Keszits fuggvenyt, ami:
     - Egy parameterul kapott szam tombbol megadja a legnagyobb szam negyzetet
