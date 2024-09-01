@@ -45,6 +45,7 @@ console.log(legnagyobbNegyzet([5, 12, 3]));
 - A fuggvenyeket teszteld console-ra kiirassal, tetszoleges parameterekkel
 */
 
+//Komment
 function szetvalogatas(szovegek){
     var parosak = [];
     var paratlanok = [];
