@@ -83,3 +83,5 @@ function ahfh(ah, fh){
 
 console.log(ahfh(5, 10));
 console.log(ahfh(10, 5));
+
+//Modositas
